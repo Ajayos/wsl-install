@@ -1,4 +1,7 @@
-# wsl-install
+# Wsl for windows 10
+#
+
+# wsl 2 for windows 11
 
 # 1
 
